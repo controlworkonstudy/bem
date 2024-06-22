@@ -1,0 +1,45 @@
+/* https://ru.bem.info/methodology/css/#%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D1%8F%D1%8F-%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F-%D0%B8-%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5 */
+
+.service__header {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.service__content {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.service__logo {
+    font-family: Open Sans, Noto Sans, Roboto, sans-serif;
+    font-size: 2em;
+    padding-bottom: 1em;
+}
+
+.form__search {
+    padding-bottom: 2em;
+}
+
+.input {
+    touch-action: manipulation;
+}
+
+.button {
+    touch-action: manipulation;
+}
+
+.result {
+    font-family: Open Sans, Noto Sans, Roboto, sans-serif;
+}
+
+.result__text {
+    padding-bottom: 1.5em;
+}
+
+.link {
+    touch-action: manipulation;
+}
+
+.link_disabled {
+        pointer-events: none;
+    }
