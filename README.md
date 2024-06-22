@@ -1,6 +1,7 @@
 # BEM
 
 ## Project setup
+Rename config folder bem to .bem
 ```
 npm install
 ```
